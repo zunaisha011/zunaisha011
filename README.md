@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I'm Zunaisha Javaid <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-
-## Hi there 👋
+<h3 align="center">Full Stack Developer | C++, Java, Python | Web & Mobile App Developer | Flutter & Dart | PHP, Laravel | JavaScript | AI & Data Analysis Enthusiast | HTML, CSS, Bootstrap, SASS</h3>
 
 <!--
 **zunaisha011/zunaisha011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
