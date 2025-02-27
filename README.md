@@ -13,8 +13,13 @@
 - ⚡ Fun fact: When I'm not coding, you'll catch me gaming🎮, binge-watching shows, or cooking up something delicious🍴 
 
 ### Connect with me
-[<img align="left" alt="Zunaisha Javaid | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
-[<img align="left" alt="Zunaisha Javaid | Linkedin" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/zunaishajavaid/" target="_blank" rel="noreferrer">
+  <img align="left" alt="Zunaisha Javaid | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
+</a>
+<a href="mailto:zunaishajavaid10@gmail.com" target="_blank" rel="noreferrer">
+  <img align="left" alt="Zunaisha Javaid | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
+</a>
+
 
 <br>
 
