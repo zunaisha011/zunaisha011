@@ -12,15 +12,13 @@
   
 - ⚡ Fun fact: When I'm not coding, you'll catch me gaming🎮, binge-watching shows, or cooking up something delicious🍴 
 
-## Get in Touch!
-<p align="left">
-    <a href="https://linkedin.com/in/zunaishajavaid" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect with Zunaisha Javaid on LinkedIn" height="30" width="40" />
-    </a>
-    <a href="mailto:zunaishajavaid10@gmail.com" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email Zunaisha Javaid" height="30" width="40" />
-    </a>
-</p>
+### Connect with me
+
+[<img align="left" alt="Naeem ur Rahman Sajid | Website" target="blank" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-
+[<img align="left" alt="Zunaisha Javaid | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
+[<img align="left" alt="Zunaisha Javaid | Linkedin" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+
+<br>
 
 ## My Coding Toolkit
 <p align="left">
