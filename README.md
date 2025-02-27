@@ -38,10 +38,11 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logotype.min.svg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
-</p>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/favicon.ico" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zunaisha011&show_icons=true&locale=en&layout=compact" alt="zunaisha011" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zunaisha011&" alt="zunaisha011" /></p>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
+
