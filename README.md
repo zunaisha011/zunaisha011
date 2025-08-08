@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Computer Science
   
-- 🤖 Exploring: New technologies in **Machine Learning & Mobile App Developement**
+- 🤖 Exploring: New technologies in **Machine Learning**
   
 - 💡 Ask me about **Python, Java, PHP, Laravel**
   
