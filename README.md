@@ -6,7 +6,7 @@
   
 - 🤖 Exploring: New technologies in **Machine Learning**
   
-- 💡 Ask me about **Python, Java, PHP, Laravel**
+- 💡 Ask me about **Python, Java, PHP, **
   
 - 📧 How to reach me: **zunaishajavaid10@gmail.com**
   
