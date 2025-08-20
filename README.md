@@ -59,12 +59,7 @@
 </a>
 
   
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=zunaisha011&show_icons=true&locale=en&layout=default"
-       alt="zunaisha011"
-       width="500" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zunaisha011&show_icons=true&locale=en&layout=compact" alt="zunaisha011" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zunaisha011&" alt="zunaisha011" /></p>
 
