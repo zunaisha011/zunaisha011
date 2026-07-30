@@ -2,7 +2,7 @@
 
 # Hi, I'm Zunaisha Javaid 👋
 
-### Data Scientist in the making | Python & Django Developer | ML Enthusiast
+### Data Scientist in the making | Python | ML Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zunaishajavaid/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunaishajavaid10@gmail.com)
@@ -20,8 +20,6 @@
 - 📊 Building toward a career in **Data Science**, sharpening my skills in EDA, ML modeling, and deployment
 - 🧠 Built **DermaLink** — an AI-powered skin disease detection app with patient, dermatologist, lab, and admin modules
 - 📜 Certified through **IBM**, **Google**, and **DataCamp** in data-related coursework
-- 🌱 Currently expanding my portfolio with churn prediction, recommendation systems, and time-series forecasting projects
-- ⚡ Outside of tech, I enjoy applying analytical thinking to creative spaces — like trend forecasting for Eastern bridal wear
 
 ---
 
