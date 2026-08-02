@@ -73,11 +73,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zunaisha011&show_icons=true&theme=default&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunaisha011&layout=compact&theme=default&cache_seconds=1800" height="170" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=zunaisha011&theme=default" />
 </p>
 
