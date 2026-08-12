@@ -17,9 +17,9 @@
 
 - 🎓 CS graduate from **COMSATS University Islamabad**
 - 💼 Former **Python & Django Intern** at **Systems Limited**
-- 📊 Building toward a career in **Data Science**, sharpening my skills in EDA, ML modeling, and deployment
-- 🧠 Built **DermaLink** — an AI-powered skin disease detection app with patient, dermatologist, lab, and admin modules
-- 📜 Certified through **IBM**, **Google**, and **DataCamp** in data-related coursework
+- 📊 Building toward a career in **Data Science**, sharpening my skills in EDA, ML modeling, and deployment.
+- 🧠 Built **DermaLink** — an AI-powered skin disease detection app with patient, dermatologist, lab, and admin modules.
+- 📜 Certified through **IBM**, **Google**, and **DataCamp** in data-related coursework.
 
 ---
 
